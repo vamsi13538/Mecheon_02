@@ -1,0 +1,116 @@
+.icons{
+    color: white;
+    padding: 0px 10px;
+}
+#nav{
+    background-color: #829460 !important;
+}
+.create1{
+    padding: 25px 35px;
+}
+.create2{
+    margin-top: 30px;
+    border: 2px solid #829460;
+    padding: 25px 0;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    border-radius: 5px;
+    background-color: white;
+    opacity: 0.7;
+}
+.create3{
+    border: 2px solid whitesmoke;
+    margin: 35px 0px;
+    text-align: center;
+    padding: 20px 10px;
+    color: white;
+    border-radius: 10px;
+}
+.create4{
+    background-color: #829460;
+}
+.collapse1{
+    background-color: #829460 !important;
+}
+.collapse0{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.code{
+    width: 450px;
+    height: 300px;
+    margin-top: 70px;
+    margin-left: 20px;
+    border: 2px solid #829460;
+    border-radius: 20px;
+}
+.create5{
+    background-color: whitesmoke;
+}
+.create6{
+    text-align: center;
+    margin-top: 20px;
+    padding: 40px 100px !important;
+}
+.create7{
+    background-color: #829460;
+}
+.submit{
+    margin: 10px 0px;
+    width: 100px;
+}
+#footer{
+    background-color: #829450;
+    text-align: center;
+    padding: 20px 0px;
+}
+.about{
+    padding-top: 20px;
+    margin-left: 100px;
+    color: white;
+}
+.create8{
+    margin: 40px 10px;
+}
+.create9{
+    text-align: justify;
+    padding: 5px 5px;
+    border: 1px solid #829450;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.create10{
+    border: 2px solid #829450 !important;
+    background-color: #829450 !important;
+    color: white !important;
+}
+.create11{
+    border: 1px solid black;
+    border-top: 0;
+}
+.create12{
+    border: 2px solid whitesmoke;
+    margin: 20px 20px;
+    padding: 20px 20px !important;
+    border-radius: 8px;
+    background-color: lightgray;
+    opacity: 0.8;
+}
+.c_submit{
+    margin: 10px 0px;
+}
+.label{
+    margin: 5px 5px;
+}
+.twitter_icon:hover{
+    color: skyblue;
+}
+.fb_icon:hover{
+    color: blue;
+}
+.email_icon:hover{
+    color: red;
+}
+.insta_icon:hover{
+    color: hotpink;
+}
